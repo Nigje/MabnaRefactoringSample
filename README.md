@@ -71,5 +71,3 @@ It exercises the database and file logging rather than using mocked dependencies
 This project documents an early step in my development as a software engineer. It shows my work on turning a single action with several responsibilities into a more structured application, while keeping the original exercise available for comparison.
 
 The code and dependencies are retained as a historical sample. Today, I would revisit dependency injection, asynchronous database access, error handling, non-destructive database migrations, and isolated tests. The repository remains useful as a record of that earlier work and the progression of my engineering approach.
-
-**Author:** [Mohsen Mirzaie (Nigje)](https://github.com/Nigje)
